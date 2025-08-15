@@ -1,7 +1,5 @@
 # 🦜🔗 URL Content Summarizer with LangChain and Groq
 
-![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
-
 A Streamlit application that summarizes content from YouTube videos or websites using LangChain and Groq's Gemma-7b model.
 
 ## Features
@@ -10,7 +8,6 @@ A Streamlit application that summarizes content from YouTube videos or websites 
 - 🌐 Summarize website content
 - ⚡ Fast processing with Groq's inference API
 - � Simple and intuitive interface
-- 🔒 Secure API key handling
 
 ## Prerequisites
 
